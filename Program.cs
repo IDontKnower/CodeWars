@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace CodeWars
+﻿namespace CodeWars
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
