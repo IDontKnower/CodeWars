@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Reference: https://www.codewars.com/kata/5277c8a221e209d3f6000b56
+
+using System;
 using System.Collections.Generic;
 
 namespace CodeWars.CodeWars._6kyu

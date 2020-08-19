@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿// Reference: https://www.codewars.com/kata/57814d79a56c88e3e0000786
+
+using System.Collections.Generic;
 using System.Linq;
 
 namespace CodeWars.CodeWars._6kyu

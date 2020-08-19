@@ -1,4 +1,6 @@
-﻿using System.Linq;
+﻿//Reference: https://www.codewars.com/kata/576757b1df89ecf5bd00073b
+
+using System.Linq;
 
 namespace CodeWars.CodeWars._6kyu
 {
